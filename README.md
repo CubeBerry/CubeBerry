@@ -74,5 +74,4 @@ I have experience developing custom engines using **OpenGL, Vulkan, and DirectX 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CubeBerry&show_icons=true&theme=dark&hide_border=true" alt="CubeBerry's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CubeBerry&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
