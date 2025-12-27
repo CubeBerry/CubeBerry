@@ -1,3 +1,5 @@
+# 👋 Hi there!
+
 ### 🚀 Graphics Programmer | Rendering Engineer
 Based in **Redmond, WA** 🇺🇸 / **South Korea** 🇰🇷
 
